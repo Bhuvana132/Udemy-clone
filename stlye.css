@@ -50,6 +50,7 @@ body{
 }
 .categories{
     display: flex;
+    flex-wrap: wrap;
     padding: 10px;
     border-bottom: solid black 1px;
     justify-content: space-around;
